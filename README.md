@@ -4,10 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavan-chavan&label=Profile%20views&color=0e75b6&style=flat" alt="pavan-chavan" /> </p>
 
 - 🔭 I’m currently working in qualys as software devloper, writing code for frontend, learing complex algorithm, solving problems
-- 
+  
 - 🔭 I’m currently working on [Hotel Mangegement service](https://github.com/Pavan-Chavan/blogs-bazar-job-frontend-service)
 
-- 🌱 I’m currently learning **React js, Spring Boot**
+- 🌱 I’m currently learning **React js, webpack, Spring Boot, TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pavan-Chavan](https://github.com/Pavan-Chavan)
 
